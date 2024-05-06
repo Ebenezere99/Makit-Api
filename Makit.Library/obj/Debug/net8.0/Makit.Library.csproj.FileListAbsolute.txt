@@ -1,0 +1,12 @@
+C:\Users\Ebenezere Philippe\source\repos\Maui\Makit\Makit.Library\bin\Debug\net8.0\Makit.Library.deps.json
+C:\Users\Ebenezere Philippe\source\repos\Maui\Makit\Makit.Library\bin\Debug\net8.0\Makit.Library.dll
+C:\Users\Ebenezere Philippe\source\repos\Maui\Makit\Makit.Library\bin\Debug\net8.0\Makit.Library.pdb
+C:\Users\Ebenezere Philippe\source\repos\Maui\Makit\Makit.Library\obj\Debug\net8.0\Makit.Library.csproj.AssemblyReference.cache
+C:\Users\Ebenezere Philippe\source\repos\Maui\Makit\Makit.Library\obj\Debug\net8.0\Makit.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ebenezere Philippe\source\repos\Maui\Makit\Makit.Library\obj\Debug\net8.0\Makit.Library.AssemblyInfoInputs.cache
+C:\Users\Ebenezere Philippe\source\repos\Maui\Makit\Makit.Library\obj\Debug\net8.0\Makit.Library.AssemblyInfo.cs
+C:\Users\Ebenezere Philippe\source\repos\Maui\Makit\Makit.Library\obj\Debug\net8.0\Makit.Library.csproj.CoreCompileInputs.cache
+C:\Users\Ebenezere Philippe\source\repos\Maui\Makit\Makit.Library\obj\Debug\net8.0\Makit.Library.dll
+C:\Users\Ebenezere Philippe\source\repos\Maui\Makit\Makit.Library\obj\Debug\net8.0\refint\Makit.Library.dll
+C:\Users\Ebenezere Philippe\source\repos\Maui\Makit\Makit.Library\obj\Debug\net8.0\Makit.Library.pdb
+C:\Users\Ebenezere Philippe\source\repos\Maui\Makit\Makit.Library\obj\Debug\net8.0\ref\Makit.Library.dll
